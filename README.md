@@ -1,3 +1,3 @@
-# Hello-World
-Just a Repository
-Hi, this is abrar trying to learn python from diffrent sources
+abrar:myproject abrar$ touch abrar.txt
+abrar:myproject abrar$ ls
+abrar.txt
